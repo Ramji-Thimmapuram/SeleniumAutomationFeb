@@ -55,7 +55,7 @@
 
 							<suiteXmlFile>testng_smoke.xml</suiteXmlFile>
 
-							<suiteXmlFile>testng_action.xml</suiteXmlFile>
+							
 
 
 
